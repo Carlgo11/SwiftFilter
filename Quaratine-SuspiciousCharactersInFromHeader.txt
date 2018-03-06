@@ -30,5 +30,8 @@ x̣
 == SET1 - BEGIN <TEXT> ==
 
 \.dk$
+\.se$
+\.nu$
+\.no$
 
 == SET1 - END <TEXT> ==
